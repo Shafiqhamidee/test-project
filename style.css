@@ -12,3 +12,6 @@ body {
   background: #c0bcbc;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+ body h1 {
+  border:3px solid orange;
+ }
